@@ -1,4 +1,6 @@
 # eightsevencentral
 Band website for Eight Seven Central
 
-https://lnewmanheggie.github.io/eightsevencentral
+eightsevencentralband.com
+
+(hosted through AWS)
