@@ -1,6 +1,6 @@
 # eightsevencentral
 Band website for Eight Seven Central
 
-eightsevencentralband.com
+https://eightsevencentralband.com
 
 (hosted through AWS)
