@@ -36,7 +36,8 @@ h1 {
   border-right: 1rem solid rgb(105, 105, 105);;
 }
 
-.aboutCol {
+.aboutCol,
+.calImg {
   border-left: 1rem solid rgb(105, 105, 105);;
 }
 
