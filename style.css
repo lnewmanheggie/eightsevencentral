@@ -104,7 +104,8 @@ h3 {
     width: 100%;
   }
 
-  .aboutCol {
+  .aboutCol,
+  .calImg {
     border-top: 1rem solid rgb(105, 105, 105);
     border-left: 0px;
     border-right: 0px;
